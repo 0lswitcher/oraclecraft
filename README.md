@@ -1,6 +1,6 @@
 <!-- Oraclecraft Logo -->
 <p align="center">
-  <img src="md-assets/oraclecraft-logo.png" alt="Oraclecraft Logo" width="200">
+  <img src="md-assets/oraclecraft-logo.png" alt="Oraclecraft Logo" width="80%">
 </p>
 
 <h1 align="center">Oraclecraft – Vanilla+ Minecraft Modpack</h1>
@@ -27,7 +27,7 @@
 
 <p align="center">
   <img src="md-assets/complimentary-shaders.png" alt="Complimentary Shaders" width="45%">
-  <img src="md-assets/nostalgia-shaders.png" alt="Nostalgia Shaders" width="45%">
+  <img src="md-assets/inventory.png" alt="Nostalgia Shaders" width="45%">
 </p>
 
 > *Screenshots taken with recommended shader + resource pack combo included in this pack.*
@@ -49,9 +49,11 @@
 
 ## Requirements
 - **Minecraft**: 1.21.4
-- **Launcher**: [Prism Launcher](https://prismlauncher.org/)
 - **Mod Loader**: Fabric (included in pack)
 - **Java**: 17+ recommended
+  
+## Optional
+- **Launcher**: [Prism Launcher](https://prismlauncher.org/)
 
 ---
 
@@ -101,5 +103,5 @@ Oraclecraft’s configs, structure, and documentation are licensed under the [MI
 ---
 
 <p align="center">
-  <sub>Built with ❤️ by  0lswitcher | Powered by Fabric + Prism Launcher</sub>
+  <sub>Built with ❤️ by  0lswitcher | Powered by Fabric, Iris, and all creators of the mods</sub>
 </p>

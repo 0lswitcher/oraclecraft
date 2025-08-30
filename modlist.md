@@ -1,7 +1,10 @@
 # Oraclecraft Modlist
 
-This is the full list of mods included in **Oraclecraft – Vanilla+ Minecraft Modpack** for **Minecraft 1.21.4**.  
+This is the full list of mods included in **Oraclecraft**  
 Mods are grouped by category, with links to their official pages and a quick note on why they’re included.
+
+> [!WARNING]  
+> While I just advertised this as a "full" list of mods, there's actually some mods included in the pack but not mentioned in this list due to the fact that there's a lot to go through! With that being said, this list is still far more comprehensive than the main pages README, and should give you a much better idea of whats inside Oraclecraft. This message will be removed once I verify *everything* is added. Thanks for your patience!
 
 ---
 
@@ -24,7 +27,7 @@ Mods are grouped by category, with links to their official pages and a quick not
 | **Mouse Tweaks** | [Modrinth](https://modrinth.com/mod/mouse-tweaks) | Improves inventory management controls. |
 | **Inventory Sorter** | [Modrinth](https://modrinth.com/mod/inventory-sorting) | One-click sorting for inventories and chests. |
 | **JEI / REI** | [Modrinth](https://modrinth.com/mod/rei) | Recipe lookup and item searching. |
-| **Waystones** | [Modrinth](https://modrinth.com/mod/waystones) | Fast travel via placeable waystones. |
+| **Replanting Crops** | [Modrinth](https://modrinth.com/mod/replanting-crops) | Automatically replant crops when harvesting. |
 | **Xaero’s Minimap** | [Official Site](https://xaero96.com/) | Lightweight minimap with waypoints. |
 
 ---
@@ -35,19 +38,12 @@ Mods are grouped by category, with links to their official pages and a quick not
 |-----|------|---------|
 | **Iris Shaders** | [Modrinth](https://modrinth.com/mod/iris) | Enables modern shader support. |
 | **Continuity** | [Modrinth](https://modrinth.com/mod/continuity) | Seamless connected textures support. |
-| **CIT Resewn** | [Modrinth](https://modrinth.com/mod/cit-resewn) | Custom item textures from resource packs. |
+| **Smooth Scroll** | [Modrinth](https://modrinth.com/mod/smooth-scroll) | Adds drifting leaves for ambience. |
+| **Smooth Swapping** | [Modrinth](https://modrinth.com/mod/smooth-swapping) | Custom item textures from resource packs. |
+| **Smooth GUI** | [Modrinth](https://modrinth.com/mod/smooth-gui) | Custom item textures from resource packs. |
 | **Falling Leaves** | [Modrinth](https://modrinth.com/mod/fallingleaves) | Adds drifting leaves for ambience. |
-
----
-
-## Light Content Additions
-
-| Mod | Link | Purpose |
-|-----|------|---------|
-| **Farmer’s Delight** | [Modrinth](https://modrinth.com/mod/farmers-delight) | Cooking system with new food mechanics. |
-| **BetterEnd** | [Modrinth](https://modrinth.com/mod/betterend) | Expands the End dimension with biomes & structures. |
-| **Incubation** | [Modrinth](https://modrinth.com/mod/incubation) | Adds chicken nests and egg hatching mechanics. |
-| **Comforts** | [Modrinth](https://modrinth.com/mod/comforts) | Sleeping bags and hammocks for flexible rest. |
+| **3D Skin Layers** | [Modrinth](https://modrinth.com/mod/3dskinlayers) | Adds depth to normally flat player skins |
+| **Wakes** | [Modrinth](https://modrinth.com/mod/wakes) | Adds splashes and wakes in water. |
 
 ---
 
@@ -69,5 +65,5 @@ Mods are grouped by category, with links to their official pages and a quick not
 ---
 
 <p align="center">
-  <sub>Last updated: 08/11/25 for Oraclecraft v1.0</sub>
+  <sub>Last updated: 08/29/25 for Oraclecraft v1.0</sub>
 </p>

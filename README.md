@@ -48,12 +48,14 @@
 # Installation & Setup
 
 ## Requirements
-- **Minecraft**: 1.21.4
-- **Mod Loader**: Fabric (included in pack)
-- **Java**: 17+ recommended
+- **Minecraft** (1.21.4)
+- **[Fabric](https://fabricmc.net/use/installer/)**  (mod loader)
+- **Fabric API** (included in pack)
+- **Java** (17+ recommended)
   
 ## Optional
-- **Launcher**: [Prism Launcher](https://prismlauncher.org/)
+- **[Iris & Sodium](https://www.irisshaders.dev/download)** (shaders and performance increase, HIGHLY RECOMMENDED-thus prepackaged)
+- **[Prism Launcher](https://prismlauncher.org/)** (just an awesome launcher for UNIX systems i'd like to share)
 
 ---
 
@@ -68,7 +70,7 @@
 
 ## Manual Install
 If you want to build it yourself:
-1. Install Prism Launcher.
+1. Ensure [Fabric](https://fabricmc.net/use/installer/) is installed
 2. Create a Fabric instance for MC 1.21.4.
 3. Copy contents of `mods/`, `resourcepacks/`, and `shaderpacks/` into your instance.
 4. Apply config files in `config/` for optimal performance.
@@ -90,9 +92,8 @@ Some older mods (like *Flow*) are not included due to version lock.
 The full modlist is available in [`modlist.md`](modlist.md), but here’s the breakdown:
 
 - **Performance**: Sodium, Lithium, Starlight, FerriteCore, EntityCulling, etc.
-- **QoL**: MouseTweaks, InventorySorter, JEI/REI, Waystones, Xaero’s Minimap.
-- **Visuals**: Iris Shaders, Continuity, CIT Resewn, Falling Leaves.
-- **Content**: Farmer’s Delight, BetterEnd, Incubation, Comforts.
+- **QoL**: MouseTweaks, InventorySorter, REI(JEI alt.), HorseBuff, Xaero’s Minimap, etc.
+- **Visuals**: Iris Shaders, Continuity, CIT Resewn, Falling Leaves, BetterF3, etc.
 
 ---
 

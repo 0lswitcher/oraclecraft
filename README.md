@@ -77,19 +77,16 @@ If you want to build it yourself:
 
 ---
 
-## Version Choice – Why 1.21.4?
-Oraclecraft targets **1.21.4** as a sweet spot:
-- **Not bleeding edge** – avoids mod breakage from latest updates.
-- **Broad mod compatibility** – works with most modern Fabric mods.
-- **Stable experience** – avoids experimental API churn.
+## Why 1.21.4?
+New enough to have modern minecraft features but stable (or old ig) enough to still work with most mods.
 
-Some older mods (like *Flow*) are not included due to version lock.
+> Some older mods (like *Flow*) are not included due to this version choice, but I'll periodically update Oraclecraft once enough notable mods catch up with enough notable official mc releases.
 
 ---
 
 # Modlist Overview
 
-The full modlist is available in [`modlist.md`](modlist.md), but here’s the breakdown:
+The full modlist is available in [`modlist.md`](modlist.md), but here’s a quick overview:
 
 - **Performance**: Sodium, Lithium, Starlight, FerriteCore, EntityCulling, etc.
 - **QoL**: MouseTweaks, InventorySorter, REI(JEI alt.), HorseBuff, Xaero’s Minimap, etc.

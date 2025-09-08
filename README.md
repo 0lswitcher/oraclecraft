@@ -55,12 +55,12 @@
   
 ## Optional
 - **[Iris & Sodium](https://www.irisshaders.dev/download)** (shaders and performance increase, HIGHLY RECOMMENDED-thus prepackaged)
-- **[Prism Launcher](https://prismlauncher.org/)** (just an awesome launcher for UNIX systems i'd like to share)
+- **[Prism Launcher](https://prismlauncher.org/)** (just an awesome launcher for UNIX systems i'd like to share-easy ass imports)
 
 ---
 
 ## Quick Install
-1. Download the latest release from the [Releases](../../releases) page.
+1. Clone the repo or download as .zip
 2. Open Prism Launcher → *Add Instance* → *Import from ZIP*.
 3. Select the downloaded Oraclecraft ZIP.
 4. Adjust RAM allocation (4–8GB recommended).
